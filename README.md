@@ -105,14 +105,14 @@ BM25 normalizes long document bias and adjusts term weight dynamically, giving b
 
 ## 👨‍💻 Author
 
-**Varun Kotha**  
-[LinkedIn Profile](https://www.linkedin.com/in/varun-kotha/)
+**Sreeja_Dumpati**  
+[LinkedIn Profile](https://www.linkedin.com/in/sreeja-dumpati/)
 
 ---
 
 ## 🔐 License & Ownership
 
-This project is authored and maintained by **Varun Kotha** as part of a personal learning initiative.
+This project is authored and maintained by **Sreeja_Dumpati** as part of a personal learning initiative.
 
 All code, logic, and documentation in this repository is original and crafted to demonstrate a clear understanding of search engine algorithms, text preprocessing, and retrieval strategies.
 
